@@ -28,4 +28,4 @@ See here to view a live link with the game up and running: http://web.engr.orego
 
 The team consisted of three people total, myself included. The other two people worked on adding arithmetic programming logic to the various design concepts (e.g. tower logic, enemy pathing, enemies that can shoot, etc).
 
-If you choose to pull this project, please note that you will have to run it via http-server or another localhost server. I recommend you do so regardless, as the release build online lacks a level skip ability, which I added in this debug version via the main menu.
+If you choose to pull this project, please note that you will have to run it via http-server or another localhost server. I recommend you do so regardless, as the release build online lacks a level skip ability, which I added in this debug version via the main menu. Please run your server inside the Pavo Project folder, otherwise navigate there.
