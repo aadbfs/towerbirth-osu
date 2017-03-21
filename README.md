@@ -8,23 +8,23 @@ All art and sound assets were lifted under fair use from the Binding of Isaac se
 
 See here to view a live link with the game up and running: http://web.engr.oregonstate.edu/~silvaal/towerbirth/OSU-Pavo/pavo%20project/
 
-I was the design and overall lead on the game, meaning that I did the following:
+* I was the design and overall lead on the game, meaning that I did the following:
 
-Incorporated art and sound assets into the game
+* Incorporated art and sound assets into the game
 
-Created levels and their designs
+* Created levels and their designs
 
-Prototyped and produced the UI
+* Prototyped and produced the UI
 
-Created enemies and their AI, along with what they should do
+* Created enemies and their AI, along with what they should do
 
-Created a basic goal: to protect the base while killing enemies
+* Created a basic goal: to protect the base while killing enemies
 
-Created items
+* Created items
 
-Animated sprites
+* Animated sprites
 
-Led the team
+* Led the team
 
 The team consisted of three people total, myself included. The other two people worked on adding arithmetic programming logic to the various design concepts (e.g. tower logic, enemy pathing, enemies that can shoot, etc).
 
