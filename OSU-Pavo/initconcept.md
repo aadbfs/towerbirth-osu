@@ -1,4 +1,4 @@
-﻿# OSU-Pav
+﻿# Initial Concept
 CS 467
 Winter 2017
 Pavo Project Plan
