@@ -6,7 +6,7 @@ This is a tower defense game powered by the Phaser engine: http://phaser.io/
 
 All art and sound assets were lifted under fair use from the Binding of Isaac series. This game is not meant for commercial use or release.
 
-See here to view a live link with the game up and running: http://web.engr.oregonstate.edu/~silvaal/towerbirth/OSU-Pavo/pavo%20project/
+See here to view a live link with the game up and running (give it some time to load): http://web.engr.oregonstate.edu/~silvaal/towerbirth/OSU-Pavo/pavo%20project/
 
 * I was the design and overall lead on the game, meaning that I did the following:
 
